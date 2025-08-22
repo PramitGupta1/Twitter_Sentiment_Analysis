@@ -24,8 +24,8 @@ In conclusion, this project demonstrates how raw Twitter data can be transformed
 
 ## Output
 
-<img width="1077" height="737" alt="Image" src="https://github.com/user-attachments/assets/a2f1621f-36f0-4e98-8fb9-c16ded7ea3a1" />
-
 <img width="854" height="715" alt="Image" src="https://github.com/user-attachments/assets/1cd8dddf-2534-41f4-87ef-1cb51f28d636" />
 
 <img width="1459" height="745" alt="Image" src="https://github.com/user-attachments/assets/525b4d44-00e1-4475-9a06-f65abf9f7687" />
+
+<img width="1077" height="737" alt="Image" src="https://github.com/user-attachments/assets/a2f1621f-36f0-4e98-8fb9-c16ded7ea3a1" />
